@@ -184,3 +184,30 @@ Le traitement est nécessaire à l'exécution d'une mission d'intérêt public o
 ### 3.6 La poursuite des intérêts légitimes du responsable de traitement
 
 Le traitement est nécessaire aux fins des intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à condition que ces intérêts ne l'emportent pas sur les droits et libertés fondamentaux de la personne concernée.
+
+
+## A. Unité 4 : LA MINIMISATION DES DONNEES
+Le principe de minimisation vient du principe de finalité.
+Selon l'article 5-1-c du RGPD, les données personnelles doivent être : 
+- adéquates
+- pertinentes
+- limitées à ce qui est nécessaire au regard des finalités pour lesquelles elles sont traitées
+Les <<Princepe de minimisation des données>> sont : 
+- une donnée est pertinente si elle a un lien direct avec la finalité du traitement
+- une donnée est limitée si elle est collectée uniquement pour la finalité du traitement
+
+### 4.1 L'EXACTITUDE DES DONNEES
+Selon l'article 5-1-d du RGPD, les données personnelles doivent être exactes et, si nécessaire, tenues à jour. 
+- La Pertinencce des données
+    - Date de naissance
+La collection de la date de naissance est pertinente pour un contrat de travail, mais pas pour un contrat de location.
+    - Vidéo surveillance
+Le respect du principe de minimisation se manifeste à travers les vidéosurveillance. 
+
+- Bonnes Pratiques
+Le respect du principe de minimisation au quotidien se fait à travers les bonnes pratiques suivantes :
+    - faire le tri des données personnelles
+    - s'interroger sur l'existence d'un solution plus simple et moins contraignante face à la collecte des données personnelles
+    - bannir les collectes de données à titre préventif
+    - pseudonymiser les données personnelles
+    - limiter les zone de collecte des données personnelles
