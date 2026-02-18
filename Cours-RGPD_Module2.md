@@ -211,3 +211,73 @@ Le respect du principe de minimisation au quotidien se fait à travers les bonne
     - bannir les collectes de données à titre préventif
     - pseudonymiser les données personnelles
     - limiter les zone de collecte des données personnelles
+
+
+## A. Unité 5 : PROTECTION PARTICULIRE DE CERTAINES DONNEES
+Il s'agit de données sensibles qui nécessitent une protection renforcée. Le traitement de ces données est interdit sauf exceptions dans le respect d'un cadre juridique strict. On a :
+    - les données dites sensibles
+    - le numéro de sécurité sociale(NIR)
+    - les données personnelles relatives aux condamnations pénales, aux infractions et aux mesures de sûreté
+
+La RGPD interdit le traitement des données sensibles puisque ces données sont relative à l'intimité de la personne concernée. Les données sensibles sont : 
+    - les origines raciales ou ethniques
+    - les opinions politiques
+    - les convictions religieuses ou philosophiques
+    - l'appartenance syndicale
+    - les données génétiques
+    - les données biométriques
+    - les données relatives à la santé
+    - les données relatives à l'orientation sexuelle
+    - les données relatives à l'origine ethnique
+    - les données relatives aux opinions politiques
+    - les données relatives aux convictions religieuses
+    - les données relatives aux opinions philosophiques
+    - les données relatives aux opinions syndicales
+
+### 5.1 LES EXCEPTIONS
+
+Le traitement des données sensibles est interdit sauf exceptions dans le respect d'un cadre juridique strict. On a :
+    - les données dites sensibles
+    - le numéro de sécurité sociale(NIR)
+    - les données personnelles relatives aux condamnations pénales, aux infractions et aux mesures de sûreté
+Cependant  il existe des exceptions à ce principesd'interdition, notamment nécessaires pour :
+    - le consentement de la personne concernée
+    - l'exécution des obligations légales
+    - la sauvegarde des intérêts vitaux
+    - traité pour la gestion, des menbre d'un organisme à but non lucratif
+    - manifestement rendu public par la personne concernée
+    - nécessaire à la constatation, à l'exercice ou à la défense de droits en justice
+    - des motifs d'intérêt public important
+    - des fins de médecine préventive, de diagnostic médical, de prise en charge ou de traitement
+    - des motifs d'intérêt public important
+    - des fins d'archives dans l'intérêt public
+    - des fins de recherche scientifique ou historique
+    - des fins statistiques dans le respect des garanties appropriées
+
+### 5.2 CONSENTEMNET EXPLICITE
+Le consentement est une exception qui traite les données sentsibles. Il doit être : 
+    - libre
+    - spécifique
+    - éclairé
+    - univoque et facilement révocable
+Pour recueillir le consentement explicite, il faut : 
+    - informer la personne concernée
+    - obtenir son consentement
+    - conserver la preuve du consentement
+
+### 5.3 DONNEES RELATIVES AUX CONDAMNATIONS PENALES, AUX INFRACTIONS ET AUX MESURES DE SURETE
+Le traitement des données personnelles relatives aux condamnations pénales, aux infractions et aux mesures de sûreté est interdit sauf exceptions dans le respect d'un cadre juridique strict. On a :
+    - les données dites sensibles
+    - le numéro de sécurité sociale(NIR)
+    - les données personnelles relatives aux condamnations pénales, aux infractions et aux mesures de sûreté
+Ces données ne peuvent pas être traitées que par : 
+    - les juridictions, les autorités publiques & les personnes physiques ou morales
+    - les auxiliaures de justice
+    - les sociétés de perceptions et de répartition des d'auteur
+
+### 5.4 LE NUMERO DE SECURITE SOCIALE(NIR)
+Le numéro de sécurité sociale(NIR) est une donnée sensible qui nécessite une protection renforcée. Le traitement de cette donnée est interdit sauf dans des cas bien précis. Le plus souvent en lien avec la sphère <<santé-social-travail>>. Quelques organimes autorisés à la collecte et le traiment de ce numéro :
+    - les organisme de sécurité social
+    - les professionnels de santé
+    - les employeurs publics et privés
+    - les pôles emploi 
