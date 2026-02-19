@@ -281,3 +281,44 @@ Le numéro de sécurité sociale(NIR) est une donnée sensible qui nécessite un
     - les professionnels de santé
     - les employeurs publics et privés
     - les pôles emploi 
+
+
+## A. Unité 6 : CONSERVATION LIMITEE DES DONNEES 
+Les données personnelles ne doivent pas être conservées plus longtemps que nécessaire. Ainsi, il faut : 
+    - définir une durée fixe de conservation des données
+    - le critère objectif pour déterminer la durée de conservation des données est la finalité du traitement
+
+### 6.1DUREE DE CONSERVATION
+La durée de conversation des données doit être définie en amont et respectée. Dans certain cas la loi ( CNIL ) fixe la durée de conservation des données. Par exemple : 
+    - les données personnelles collectées dans le cadre d'un contrat de travail doivent être conservées pendant 5 ans après la fin du contrat
+    - les données dans le cadre d'un dossier medical pendant 10 ans
+Les organismes publics et privées doivent suivre la recommandation de la CNIL qui est :
+    - un mois pour la consevation des images de vidéosurveillance
+    - 03 ans pour les données relatives à un prospect 
+
+### 6.2 CYCLE DE VIE DES DONNEES
+Le cycle de vie des données est divisé en 03 phases :
+    1. Conservation en base active
+    2. Archivage intermédiaire 
+    3. Archivage définifif
+
+#### 6.2.1 CONSERVATION EN BASE ACTIVE
+La conservation en base active est la phase pendant laquelle les données sont utilisées.
+Elle va de paie avec une grande accessibilité et une utilisation fréquente des données par les services opérationnels
+
+#### 6.2.2 ARCHIVAGE INTERMEDIAIRE
+L'archivage intermédiaire est la phase pendant laquelle les données sont conservées mais moins utilisées.
+Elle va de paie avec une accessibilité réduite et une utilisation moins fréquente des données. Elle obéit à des règles strictes en matière de conservation et d'accès.
+Les données archivées doivent être isolées des données de la << base active >>. Cet isolement peut se fait par : 
+    - une séparation physique
+    - une séparation logique
+Peut importe le choix de l'organisme, il doit respecter ces 03 exigences : 
+    - seules les données qui permettent la satisfaction de la finalité poursuivie doivent être conservées
+    - seules les personnes ayant connaissance des données doivent être autorisées à y accéder avec une traçabilité des accès
+    - les données doivent être supprimées au moment ou le délaie de conservation ne peut être invoqué
+<<Archivage limité dans le temps >>
+Pour une durée de 13 mois conformément aux dispositions du Code monétaire et financier, les données relatives aux transactions bancaires doivent être conservées. Au delà de ce delais , ces données sont supprimées
+
+#### 6.2.3 ARCHIVAGE DEFINITIF
+L'archivage définitif est la phase pendant laquelle les données sont conservées mais plus utilisées.
+Elle va de paie avec une accessibilité réduite et une utilisation moins fréquente des données par les services opérationnels
