@@ -321,4 +321,53 @@ Pour une durée de 13 mois conformément aux dispositions du Code monétaire et 
 
 #### 6.2.3 ARCHIVAGE DEFINITIF
 L'archivage définitif est la phase pendant laquelle les données sont conservées mais plus utilisées.
-Elle va de paie avec une accessibilité réduite et une utilisation moins fréquente des données par les services opérationnels
+Elle va de paie avec une accessibilité réduite et une utilisation moins fréquente des données par les services opérationnels.
+La conservation et le traitement des données archivées sont soumise à des conditions strictes et garanties. Ces conditions sont déterminées par le Code du patrimoine et les dispositions de la loi.
+
+
+## A. Unité 7 : LES PRINCIPES DE LA PROTECTION DES DONNEES
+Selon l'article 32-1 du RGPD, le responsable du traitement met en œuvre des mesures techniques et organisationnelles appropriées pour garantir un niveau de sécurité adapté au risque.
+Ces mesures sont : 
+    - la pseudonymisation et le chiffrement des données personnelles
+    - la capacité à garantir la confidentialité, l'intégrité, la disponibilité et la résilience permanentes des systèmes et des services de traitement
+    - la capacité à rétablir rapidement l'accès aux données personnelles et leur disponibilité en cas d'incident physique ou technique
+    - une procédure visant à tester, évaluer et apprécier régulièrement l'efficacité des mesures techniques et organisationnelles mises en œuvre
+
+### 7.1 Les 3 Principes de la sécurité des données
+    - la confidentialité
+    - l'intégrité
+    - la disponibilité
+
+Les risques sont :
+    - les employés ou les visiteurs
+    - les risques liés à la sécurité des données
+    - les risques liés à la vie privée
+    - les risques liés à la concurrence
+    - les risques liés à les attaques malveillantes
+    - les risques liés à des pannes matérielles ou logicielles
+    - les rsiques liés aux sinistres
+    - les risques liés aux erreurs humaines(actions ou omissions)
+
+Les mesures de sécurité sont :
+Les responsable et les sous-traitant pour parvenir à l'objectif de sécurité des données doivent mettre en place des mesures de sécurité. Ces mesures sont :
+    - la pseudonymisation et le chiffrement des données personnelles
+    - la capacité à garantir la confidentialité, l'intégrité, la disponibilité et la résilience permanentes des systèmes et des services de traitement
+    - la capacité à rétablir rapidement l'accès aux données personnelles et leur disponibilité en cas d'incident physique ou technique
+    - une procédure visant à tester, évaluer et apprécier régulièrement l'efficacité des mesures techniques et organisationnelles mises en œuvre
+
+##### Les mesures physiques sont :
+    - Sécuriser les locaux, et plus particulièrement des salles informatiques
+Exemple de bonne partique à mettre en place :
+    - installer des alarmes anti-intrusion et les vérifier périodiquement
+    - distinguer les zones selon le niveau de sensibilité des données
+    - protéger les baies informatiques
+    - installer des serrures dans chaque bureau et veiller à leur fermeture
+
+##### Les mesures logiques sont :
+    - Adopter des règles de gestion des mots de passe
+    - Sécuriser les postes de travail
+    - Tracer les accès aux données
+    -  Protéger le réseau informatique interne et les serveurs
+    -  Anticiper les risque de perte ou de divulgation des données
+
+##### Les mesures organisationnelles
