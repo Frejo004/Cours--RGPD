@@ -371,3 +371,32 @@ Exemple de bonne partique à mettre en place :
     -  Anticiper les risque de perte ou de divulgation des données
 
 ##### Les mesures organisationnelles
+Pour une meilleure sécurité des données, il est recommandé de mettre en place des mesures organisationnelles. Ces mesures sont :
+    - définir une <<politique de contrôle d'accès>>
+    - sensibiliser les utilisateurs sur les <<conditions d'utilisation des données>>
+    - définir une politique de <<gestion des incidents>> touchant les données personnelles
+    - prévoir des <<audits réguliers>>  des procédures et des <<traitements>>
+
+
+## A. Unité 8 : TRANSPARENCE A L'EGARD DES PERSONNES CONCERNEES
+
+### 8.1  Le Droit à l'Information
+Le RGPD pose un principe de loyauté et de transparence vis-à-vis des personnes concernées par le traitement de leurs données personnelles. Le respect de ce principe passe par :
+    - justifier la collecte des données personnelles aux concernants
+    - comprendre les conditions
+    - garder une maîtrise de leurs données personnelles
+
+#### 8.1.1 L'obligation de transparence pèse sur les responsables des traitement
+    - En cas de collecte directe des données
+Les données sont collectées directement chez la personne concernée ou sont recueillies via les formulaires de collecte de données.
+
+    -En cas de collecte indirecte des données
+Les données ne sont pas collectées directement chez la personne concernée. Elles sont collectées auprès de sources tierces.
+
+    - Dans le cadre de la collecte
+Au moment de la collecte des données dans le cas de la collecte directe et au plus tard dans un délai d'un mois après la collecte des données dans le cas de la collecte indirecte.
+
+    - Egalement dans l'hypothèse d'une modification substantielle ou un évènement particulier.
+
+#### 8.1.2 Le Driot à l'Information
+L'aticle 12.1 de 
