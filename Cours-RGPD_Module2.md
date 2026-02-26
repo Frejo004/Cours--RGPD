@@ -401,7 +401,7 @@ Au moment de la collecte des données dans le cas de la collecte directe et au p
 #### 8.1.2 Le Driot à l'Information
 L'aticle 12.1 de la loi Informatique et Libertés dispose que : << toute personne dont les données personnelles sont collectées ou traitées doit être informée >>.
 
-#### 8.2 INFORMATIONS A COMMUNIQUER EN CAS DE COLLECTE DIRECTE DES DONNEES
+#### 8.1.3 INFORMATIONS A COMMUNIQUER EN CAS DE COLLECTE DIRECTE DES DONNEES
 ###### A - De façon systématque, les informations suivantes doivent être communiquées :
     - l'identité et les coordonnées du responsable du traitement
     - les finalités du traitement
@@ -423,10 +423,42 @@ L'aticle 12.1 de la loi Informatique et Libertés dispose que : << toute personn
     - la source de provenance des données
 Ces informations doivent être transmises à la personnes concerné dans un délais après avoir obtenir les données sans dépassé un mois
 
-#### 8.3 LES DEROGATIONS A L'OBLIGATION D'INFORMATION
+#### 8.1.4 LES DEROGATIONS A L'OBLIGATION D'INFORMATION
 Le RGPD prévoit plusieurs cas dans le lesquels le responsable de traitement <<n'est pas dans l'obligation de fournir toutes ces informations>>. On a 02 cas :
     - collecte directe ou indirecte des données
 La personne dispose déjà des informations
 
     - collecte indirecte des données seulement
+La fourniture des informations s'avère impossible ou exigerait des efforts disproportionnés.
+L'obtention ou la communication des données est expressément prévue par une disposition légale ou réglementaire.
+Les données doivent rester confidentielles.
 
+#### 8.1.5 LES DEROGATIONS A L'OBLIGATION DE INFORMATION
+Toutefois, les organismes qui se prévalent des dérogations précitées doivent être en mesure de justifier de leurs décisions auprès de la CNIL.
+
+### 8.2 LA FORME DE L'INFORMATION
+Il faut que l'information soit :
+    - compréhensible
+    - format lisible 
+    - facilement accessible
+    - rédigée en langage clair et simple
+    - vision globale des données
+
+#### 8.2.1 Veiller à ce que l'information soit *compréhensible*
+    - utiliser un vocabulaire simple
+    - faire des phrases courtes et employer un style directe
+    - éviter les termes ambigus ou les formulations trop techniques ou les termes juridiques
+    
+    . adapter l'information au public visé et prêter une attention particulière aux enfants et aux personnes vulnérables
+
+#### 8.2.2 Concevoir un format lisible d'information
+    - être concis (ne pas présenter l'information dans une notion d'information trop longue)
+    - prioriser les élémemnts d'information en favorisant une approche par niveaux ( mettre en avant les informations les plus importantes & offri un accès aux informations secondaires)
+    - adapter le format de l'information en fonction du public visé
+
+#### 8.2.3 Veiller à ce que l'information soit *facilement accessible*
+    - les personnes concernées doivent pouvoir accéder à l'information sans difficulté
+    - les informations doivent être accessibles sur un support durable
+
+#### 8.2.4 Donner une *vision globale des données* sur le traitement
+Si un organisme dispose de plusieurs traitements, il doit centraliser les informations dans un document unique ou un site web.
