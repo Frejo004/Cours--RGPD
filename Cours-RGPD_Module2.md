@@ -399,4 +399,34 @@ Au moment de la collecte des données dans le cas de la collecte directe et au p
     - Egalement dans l'hypothèse d'une modification substantielle ou un évènement particulier.
 
 #### 8.1.2 Le Driot à l'Information
-L'aticle 12.1 de 
+L'aticle 12.1 de la loi Informatique et Libertés dispose que : << toute personne dont les données personnelles sont collectées ou traitées doit être informée >>.
+
+#### 8.2 INFORMATIONS A COMMUNIQUER EN CAS DE COLLECTE DIRECTE DES DONNEES
+###### A - De façon systématque, les informations suivantes doivent être communiquées :
+    - l'identité et les coordonnées du responsable du traitement
+    - les finalités du traitement
+    - la base juridique du traitement
+    - le caractère obligatoire ou facultatif de la collecte des données
+    - les destinataires des données
+    - la durée de conservation des données
+    - le droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité des données
+    - le droit d'introduire une réclamation auprès de l'autorité de contrôle
+
+###### B - Selon le cas on a : 
+    - l'identité et les coordonnées du responsable du traitement
+    - les intérêts légitimes poursuivis par le responsable du traitement ou par un tiers
+    - le droit de retirer son consentement à tout moment
+    - le transfert hors de l'UE et les moyens d'accéder aux documemnts
+    - la prise de décision automatisée
+    - les informations pertinentes
+    - la ou les carégories des donnnées traitées
+    - la source de provenance des données
+Ces informations doivent être transmises à la personnes concerné dans un délais après avoir obtenir les données sans dépassé un mois
+
+#### 8.3 LES DEROGATIONS A L'OBLIGATION D'INFORMATION
+Le RGPD prévoit plusieurs cas dans le lesquels le responsable de traitement <<n'est pas dans l'obligation de fournir toutes ces informations>>. On a 02 cas :
+    - collecte directe ou indirecte des données
+La personne dispose déjà des informations
+
+    - collecte indirecte des données seulement
+
