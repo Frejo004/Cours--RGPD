@@ -11,7 +11,7 @@ Ces conditions sont appelées les **règles d’or**. Elles constituent le cœur
 
 ---
 
-## A. Unité 1 : Les 8 règles d’or
+## A. UNITE 1 : Les 8 règles d’or
 
 Les **huit règles d’or** du RGPD sont les suivantes :
 
@@ -30,7 +30,7 @@ Ces règles constituent à la fois :
 
 ---
 
-## 1. La finalité du traitement
+## B.UNITE 2 : La finalité du traitement
 
 La **finalité** correspond au **but du traitement** des données personnelles.  
 Elle doit être **déterminée, explicite et légitime**.
@@ -121,7 +121,7 @@ Sous réserve du respect des autres règles du RGPD, le responsable de traitemen
 
 -----
 
-## A. Unité 3 : LICEITE DU TRAITEMENT
+## C. Unite 3 : LICEITE DU TRAITEMENT
 La licéité est dit <<la base légale>> car elle n'est uniquement au regard des lois de <Informatique et Liberté> mais aussi de sa *conformité au droit en général*
 
 Selon l'article 6-1 du RGPD, un traitement est licite ou peut être mise en oeuvre s'il repose sur l'une des 6 bases légales suivantes :
@@ -186,7 +186,7 @@ Le traitement est nécessaire à l'exécution d'une mission d'intérêt public o
 Le traitement est nécessaire aux fins des intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à condition que ces intérêts ne l'emportent pas sur les droits et libertés fondamentaux de la personne concernée.
 
 
-## A. Unité 4 : LA MINIMISATION DES DONNEES
+## D. UNITE 4 : LA MINIMISATION DES DONNEES
 Le principe de minimisation vient du principe de finalité.
 Selon l'article 5-1-c du RGPD, les données personnelles doivent être : 
 - adéquates
@@ -213,7 +213,7 @@ Le respect du principe de minimisation au quotidien se fait à travers les bonne
     - limiter les zone de collecte des données personnelles
 
 
-## A. Unité 5 : PROTECTION PARTICULIRE DE CERTAINES DONNEES
+## E. UNITE 5 : PROTECTION PARTICULIRE DE CERTAINES DONNEES
 Il s'agit de données sensibles qui nécessitent une protection renforcée. Le traitement de ces données est interdit sauf exceptions dans le respect d'un cadre juridique strict. On a :
     - les données dites sensibles
     - le numéro de sécurité sociale(NIR)
@@ -283,7 +283,7 @@ Le numéro de sécurité sociale(NIR) est une donnée sensible qui nécessite un
     - les pôles emploi 
 
 
-## A. Unité 6 : CONSERVATION LIMITEE DES DONNEES 
+## F. UNITE 6 : CONSERVATION LIMITEE DES DONNEES 
 Les données personnelles ne doivent pas être conservées plus longtemps que nécessaire. Ainsi, il faut : 
     - définir une durée fixe de conservation des données
     - le critère objectif pour déterminer la durée de conservation des données est la finalité du traitement
@@ -325,7 +325,7 @@ Elle va de paie avec une accessibilité réduite et une utilisation moins fréqu
 La conservation et le traitement des données archivées sont soumise à des conditions strictes et garanties. Ces conditions sont déterminées par le Code du patrimoine et les dispositions de la loi.
 
 
-## A. Unité 7 : LES PRINCIPES DE LA PROTECTION DES DONNEES
+## G. UNITE 7 : LES PRINCIPES DE LA PROTECTION DES DONNEES
 Selon l'article 32-1 du RGPD, le responsable du traitement met en œuvre des mesures techniques et organisationnelles appropriées pour garantir un niveau de sécurité adapté au risque.
 Ces mesures sont : 
     - la pseudonymisation et le chiffrement des données personnelles
@@ -462,3 +462,138 @@ Il faut que l'information soit :
 
 #### 8.2.4 Donner une *vision globale des données* sur le traitement
 Si un organisme dispose de plusieurs traitements, il doit centraliser les informations dans un document unique ou un site web.
+
+
+
+# H. UNITE 9 : DROITS DES PERSONNES SUR LEURS DONNEES
+### 9.1  DROIT RENFORCES
+#### 9.1.1 Droit d'accès
+Selon l'article 15 du RGPD, le droit d'accès est un droit fondamental des personnes concernées. Il permet de connaître les données personnelles collectées sur elles. La personne qui exerce son droit d'accès à ses données personnelles doit recevoir une copie de ses données ainsi que les informations suivantes : 
+    - l'identité et les coordonnées du responsable du traitement
+    - les finalités du traitement
+    - la base juridique du traitement
+    - le caractère obligatoire ou facultatif de la collecte des données
+    - les destinataires des données
+    - la durée de conservation des données
+    - le droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité des données
+    - le droit d'introduire une réclamation auprès de l'autorité de contrôle
+
+#### 9.1.2 Droit de rectification
+Selon l'article 16 du RGPD, le droit de rectification permet de <<corriger des données inexactes ou incomplètes>> ou <<compléter des données>> de la personne concernée en lien avec les finalités du traitement.
+
+#### 9.1.3 Droit d'opposition
+Selon l'article 21 du RGPD, le droit d'opposition permet à la personne concernée de s'opposer au traitement de ses données personnelles pour des motifs légitimes.
+
+#### 9.1.4 Droit à l'effacement
+Selon l'article 17 du RGPD, le droit à l'effacement permet à la personne concernée de demander la suppression de ses données personnelles lorsque celles-ci ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou traitées. Ce droit s'applique uniquement dans une de ces 06 situations :
+    - les données ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou traitées
+    - la personne concernée retire son consentement au traitement des données
+    - la personne concernée s'oppose au traitement des données
+    - les données ont été traitées de manière illicite
+    - les données doivent être effacées pour respecter une obligation légale
+    - les données ont été collectées auprès d'un enfant
+
+Il faut noter que le droit à l'effacement ne s'applique pas dans les cas suivants :
+    - de la liberté d'expression et d'information
+    - du respect d'une obligation légale
+    - d'un motif d'intérêt public dans le domaine de la santé publique
+    - des fins archivistiques dans l'intérêt public, des fins scientifiques ou historiques, des fins statistiques
+    - de l'exercice ou de la défense de droits en justice
+
+### 9.2 NOUVEAUX DROITS
+#### 9.2.1 Droit à la portabilité
+Selon l'article 20 du RGPD, le droit à la portabilité permet à la personne concernée de recevoir les données personnelles la concernant qu'elle a fournies au responsable du traitement, dans un format structuré, couramment utilisé et lisible par machine, et de transmettre ces données à un autre responsable du traitement sans que le responsable du traitement initial ne puisse y faire obstacle, lorsque : 
+    - le traitement est fondé sur le consentement ou sur un contrat
+    - le traitement est effectué par des moyens automatisés
+Les données concernées sont : 
+    - les données fournies par la personne concernée
+    - les données collectées à partir de l'activité de la personne concernée
+    - les données générées par le traitement des données de la personne concernée
+Par contre les données exclues sont : 
+    - les données anonymisées
+    - les données déduites ou dérivées
+Enfin, l'exercice du droit à la portabilité ne doit pas porter atteinte aux droits et libertés d'autrui.
+
+#### 9.2.2 Droit à la limitation du traitement
+Selon l'article 18 du RGPD, le droit à la limitation du traitement permet à la personne concernée de demander la limitation du traitement de ses données personnelles lorsque celles-ci ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou traitées. Ce droit s'applique uniquement dans une de ces 04 situations :
+    - les données ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou traitées
+    - la personne concernée retire son consentement au traitement des données
+    - la personne concernée s'oppose au traitement des données
+    - les données ont été traitées de manière illicite
+Ce droit entraine un <gel temporaire> du traiments des données, sauf si :
+    - le traitement est fondé sur le consentement ou sur un contrat
+    - le traitement est effectué par des moyens automatisés
+    - les données ont été collectées auprès d'un enfant
+
+#### 9.2.3 Décision individuelle automatisée
+Selon l'article 22 du RGPD, le droit de ne pas faire l'objet d'une décision individuelle automatisée permet à la personne concernée de ne pas faire l'objet d'une décision fondée exclusivement sur un traitement automatisé, y compris le profilage, produisant des effets juridiques la concernant ou l'affectant de manière significative, sauf si : 
+    - le traitement est fondé sur le consentement ou sur un contrat
+    - le traitement est effectué par des moyens automatisés
+    - les données ont été collectées auprès d'un enfant
+
+##### Possibilité de s'opposer à une décision individuelle automatisée
+La personne concernée peut s'opposer à une décision individuelle automatisée si : 
+    - le traitement est fondé sur le consentement ou sur un contrat
+    - le traitement est effectué par des moyens automatisés
+    - les données ont été collectées auprès d'un enfant
+
+#### Notification de l'exercice des droits
+Une personne qui exerce son droit de ractification, d'effacement, de limitation, d'opposition et de portabilité des données doit recevoir une copie de ses données ainsi que les informations suivantes : 
+    - l'identité et les coordonnées du responsable du traitement
+    - les finalités du traitement
+    - la base juridique du traitement
+    - le caractère obligatoire ou facultatif de la collecte des données
+    - les destinataires des données
+    - la durée de conservation des données
+    - le droit d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité des données
+    - le droit d'introduire une réclamation auprès de l'autorité de contrôle
+
+
+# H. UNITE 10 : ENCADREMENT DES TRANSFERTS DE DONNES HORS DE L'UNION EUROPEENNE
+
+#### 10.1 BULLE DE PROTECTION
+La RGPD s'applique aux données personnelles collectées et traitées par des organismes établis dans l'Union européenne. Elle s'applique également aux données personnelles collectées et traitées par des organismes établis hors de l'Union européenne lorsque ces organismes traitent des données personnelles de personnes situées dans l'Union européenne.
+
+Les transfert des données personnelles se fait entre deux types de pays :
+    - Pays adéquats
+un pays est considéré comme adéquat si il respecte les normes de protection des données personnelles. Et il offre un niveau de protection des données personnelles similaire au niveau de protection des données personnelles dans l'Union européenne.
+    - Pays tiers
+Pour un pays non adéquat, le transfert de données personnelles est possible  sous réserve de certaines conditions :
+    - encadrer juridiquement le transfert des données personnelles
+    - obtenir une autorisation de transfert des données personnelles de la part de l'autorité de contrôle
+    - pouvoir se prévaloir de l'une des dérogations du RGPD
+##### Garanties appropriées
+Les garanties appropriées sont des mesures techniques et organisationnelles qui permettent de garantir un niveau de protection des données personnelles similaire au niveau de protection des données personnelles dans l'Union européenne. Il s'agit :
+    - des règles d'entreprises contraignantes
+    - des clauses contractuelles types
+    - des codes de conduite
+    - des mécanismes de certification
+    - des intruments juridiquement contraignants
+##### Autorisation de transfert
+L'autorisation de transfert est une autorisation accordée par l'autorité de contrôle pour le transfert de données personnelles vers un pays tiers non adéquat. Cette autorisation est fondée sur : 
+    - des clauses contractuellles spécifiques
+    - des dispositions intégrées à des arrangements administratifs 
+
+
+#### 10.2 DEROGATIONS A L'IBLIGATION D'EBCADREER LE TRANSFERT
+Selon l'article 49 du RGPD, <en absence de décision d'adéquation et de garanties appropriées>, le transfert de données personnelles vers un pays tiers non adéquat est possible dans les cas suivants :
+    - la personne concernée a consenti au transfert des données personnelles
+    - le transfert est nécessaire à l'exécution d'un contrat
+    - le transfert est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée
+    - le transfert est nécessaire à l'exercice ou à la défense de droits en justice
+    - le transfert est nécessaire à des fins d'intérêt public
+    - le transfert est nécessaire à des fins archivistiques dans l'intérêt public, des fins scientifiques ou historiques, des fins statistiques
+
+L'article 49 du RGPD précise que ces dérogations ne peuvent être invoquées que dans des cas exceptionnels et ne doivent pas être utilisées de manière systématique.
+
+Pour les transferts de données personnelles vers un pays tiers non adéquat, il est important de noter que le transfert doit être effectué dans le respect des droits et libertés des personnes concernées.
+
+
+#### 10.3 TRANSFERTS OU DIVULGATIONS NON AUTORISÉS
+Le RGPD protège les données personnelles collectées et traitées par des organismes établis dans l'Union européenne. Selon l'article 48 du RGPD
+
+#### 10.4 INFORMATION DES PERSONNES ET REGISTRES
+Les transferts doivent figurer dans le <mention d'information> des personnes concernées, ainsi que dans le <registre des activités de traitement> du responsable du traitement.
+
+#### 10.5 SANCTIONS
+Le non respect des dispositions du RGPD relatives aux transferts de données personnelles vers un pays tiers non adéquat peut entraîner des sanctions administratives et pénales. Ellle est passible d'une amende administrative pouvant aller jusqu'à 20 millions d'euros ou 4% du chiffre d'affaires annuel mondial, le montant le plus élevé étant retenu.
