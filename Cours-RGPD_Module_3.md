@@ -53,3 +53,50 @@ La documentation doit contenir les éléments suivants :
     - le nom et les coordonnées du sous-traitant
     - le nom et les coordonnées du sous-traitant ultérieur
     - etc
+
+### 1.4 Les Outils de la Conformité
+Il existe deux carégories d'outils de conformité :
+    - les outils de conformité obligatoire
+        - le registre des traitements
+        - le délégué à la protection des données dans certains cas 
+        - analyse d'impact pour certains traitements
+        - notification de violation de données sous certaines conditions
+        
+    - les outils de conformité optionnels
+        - la certification
+        - les codes de conduite
+        - les règles d'entreprise contraignantes (BCR)
+        - etc.
+
+
+## B UNITE 2 : PARTAGE DES RESPONSABILITES
+
+### 2.1 Notion de <<CORESPONSABILITE>>
+On parle de coreponsabilité lorsque deux ou plusieurs acteurs se mettent en d'accord pour effectuer un traitement de données personnelles.
+
+### 2.2 Points de Vigilance
+Les organismes qui sont en coreponsabilité doivent être vigilants sur les 04 points suivants : 
+    - il est important de clarifier par voie d'accord mutuel les responsabilités des acteurs impliqués.
+
+    - la personne concerné par le traitement doit être informée de la coreponsabilité et de ses conséquences.
+
+    - les parties sont libres de se répartir les responsabilités du traitement.
+
+    - les  grsandes lignes de l'accord conclu entre les parties sont mises à la connaissance de la personne concernée.
+
+
+## C UNITE 3 : RESPONSABILITE SPECIFIQUE DES SOUS-TRAITANTS
+
+### 3.1 Organisme concernés
+Les obligations concernent <tous les organismes impliqués dans un traitement de données personnelles et les instructions d'un autre organisme> dans le cadre d'un service ou une prestations.
+Selon l'article 28 du règlement, les organismes resposables de traitemnt ne soivent faire appel qu'à des sous-traitants qui présentent des garanties suffisantes en matière de protection des données personnelles.
+
+### 3.2 Contrat de Sous-Traitance
+Un contrat qui contient les clauses spécifiques doit être signé entre le responsable de traitement et le sous-traitant. 
+
+### 3.3 Les Obigations
+Les sous-traitants doivent : 
+    - transparence et traçabilité
+    - sécurité des données traitées
+    - encadrement de la sous-traitance ultérieure
+    - compagnement du responsable
