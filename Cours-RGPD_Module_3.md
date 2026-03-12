@@ -1,6 +1,6 @@
 # LES RESPONSABLES DES ACTEURS
 
-## A UNITE 1 : NOUVELLE LOGIQUE DE RESPONSABILISATION : L'ACCOUNTABILITY
+## A. UNITE 1 : NOUVELLE LOGIQUE DE RESPONSABILISATION : L'ACCOUNTABILITY
 
 Définition : L'accountability est l'obligation pour les responsables de traitement de données personnelles de mettre en place des mesures pour garantir la conformité au RGPD. C'est-à-dire que tous les acteurs impliqués dans le traitement de données doivent mettre en place et actualiser des <mesures à la fois techniques et organisationnelles> pour garantir le respect des grands proincipes du règlement : 
     - minimisation
@@ -69,7 +69,7 @@ Il existe deux carégories d'outils de conformité :
         - etc.
 
 
-## B UNITE 2 : PARTAGE DES RESPONSABILITES
+## B. UNITE 2 : PARTAGE DES RESPONSABILITES
 
 ### 2.1 Notion de <<CORESPONSABILITE>>
 On parle de coreponsabilité lorsque deux ou plusieurs acteurs se mettent en d'accord pour effectuer un traitement de données personnelles.
@@ -85,7 +85,7 @@ Les organismes qui sont en coreponsabilité doivent être vigilants sur les 04 p
     - les  grsandes lignes de l'accord conclu entre les parties sont mises à la connaissance de la personne concernée.
 
 
-## C UNITE 3 : RESPONSABILITE SPECIFIQUE DES SOUS-TRAITANTS
+## C. UNITE 3 : RESPONSABILITE SPECIFIQUE DES SOUS-TRAITANTS
 
 ### 3.1 Organisme concernés
 Les obligations concernent <tous les organismes impliqués dans un traitement de données personnelles et les instructions d'un autre organisme> dans le cadre d'un service ou une prestations.
@@ -100,3 +100,41 @@ Les sous-traitants doivent :
     - sécurité des données traitées
     - encadrement de la sous-traitance ultérieure
     - compagnement du responsable
+
+#### a. Transparence et traçabilité
+Le sous-traitant doit être transparent et traçable en matière de traitement de données personnelles. Pour celà il doit :
+    -établir avec son client un contrat ou un acte juridique 
+    - recenser par écrit les instructions de son client concernant les traitements de données personnelles
+    - documenter les traitements de données personnelles qu'il effectue pour prouver sa conformité
+    - demander l'autorisation de son client avant de faire appel à un sous-traitant ultérieur
+    - mettre à la disposition de son client toute la documentation nécessaire pour prouver sa conformité
+    - tenir un registre des catégories d'activités de traitement qui recense ses clients et décrit les traitement qu'il effectue pour leur compte.
+
+#### b. Sécurité des données traitées
+Le sous-traitant doit mettre en place des mesures de sécurité appropriées pour garantir la sécurité des données personnelles traitées. 
+    - soumettre tous ses employés qui traitent des données personnelles à des obligations de confidentialité
+    - mettre en place des mesures de sécurité appropriées pour garantir la sécurité des données personnelles traitées
+    - notifier aux clients toute violation de données personnelles
+Au terme de la prestation , le sous-traitant doit 
+    - supprimer toutes les données personnelles traitées
+    - détruire les copies existantes sauf en cas d'obligation légale de conservation
+
+#### c. Encadrement de la sous-traitance ultérieure
+Le sous-traitant fait appel à des sous-traitants ultérieurs. Selon 02 conditions : 
+    - le sous-traitant doit obtenir l'autorisation écrite générale ou spécifique de la part du responsable de traitemen
+    - le sous-traitant doit assurer que son propre sous-traitant respecte les mêmes obligations en matière de protection des données personnelles que lui-même 
+
+#### d. Compagnement du responsable
+Le sous-traitant doit aider les responsables de traitementà s'acquitter de leurs obligations en matière de protection des données personnelles. 
+    - prise en compte des demandes d'exercice des droits des personnes concernées
+    - notification des violations de données personnelles
+    - sécurisation appropriée des données traitées
+    - réalisation d'analyses d'impact sur la vie privée et les libertés 
+
+### 3.4 DPO et Registre des Traitements
+Tout commen les responsables de traitement les <sous-traitants doivent tenir un resgistre des activités de traitement effectuées pour le compte de leurs clients >
+
+
+## D. UNITE 4 : LES SANCTIONS ET VOIES DE RECOURS
+
+### 4.1 Les Sanctions
