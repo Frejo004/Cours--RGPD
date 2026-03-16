@@ -138,3 +138,36 @@ Tout commen les responsables de traitement les <sous-traitants doivent tenir un 
 ## D. UNITE 4 : LES SANCTIONS ET VOIES DE RECOURS
 
 ### 4.1 Les Sanctions
+Les différentes types de sanctions sont :
+    - rappels à l'ordre
+    - injonction de mettre le traitement en conformité, y  compris sous astreinte
+    - limitation temporaire ou définitive du traitement 
+    - retrait d'une certification
+    - amende administrative
+    - etc .
+
+Traitements transfrontaliers
+Dans un cas particulier des traitement frontaliers , les autorités travaillent en collaboration sous la supervision d'une autorité chef de file. 
+
+### 4.2 Voies de recours
+#### a - Réclamation auprès de l'autorité de contrôle
+Les personnes concernées peuvent exercer leurs droits en saisissant l'autorité de contrôle compétente. Il peut s'agir de l'autorité de contrôle appartenant à l'état membre de l'Union Européenne :
+    - où se situe sa résidence habituelle
+    - où se situe son lieu de travail
+    - où se situe le lieu de la violation alléguée
+    - etc
+
+#### b - Recours juridictionnel
+En cas de non-respect de lois de la RGPD, la personne concernée peut saisir les juridictions de l'Etat membre de l'Union Européenne :
+    - où se situe sa résidence habituelle
+    - où se situe son lieu de travail
+    - où se situe le lieu de la violation alléguée
+    - etc
+
+#### c - Représenation par un organisme
+Le règlement prévoit que les personnes concernées peuvent mandater un organisme à but non lucratif pour exercer leurs droits en leur nom.
+
+#### d - Réparation Effective
+L'un des objectifs du règlement est de prévoir une réparation effective en cas de violation des droits des personnes concernées.
+
+La resposabilité du préjudice devra être portée par l'auteur qui est responsable du traitement ou le sous-traitant.
