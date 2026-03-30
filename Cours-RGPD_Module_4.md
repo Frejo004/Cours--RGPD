@@ -136,3 +136,20 @@ Le <registre doit être mise à jour régulièrement> pour suivre l'évolution d
 ### 2.7 Communication
 Le registre doit être communiqué à la CNIL sur demande. Il doit également être communiqué aux personnes concernées sur demande car il s'agit d'un <document public>.
 Le registre doit être communiqué après avoir retiré les informations sensibles. En effet, le registre contient des informations sensibles qui ne doivent pas être communiquées aux personnes concernées.
+
+
+## C. UNITE 3 : L'ANALYSE D'IMPACT RELATIVE À LA PROTECTION DES DONNÉES (AIPD)
+### 3.1 L'objectif de l'AIPD
+Il 4 objectifs :
+    - 1. Décrire  un traiment de façon détaillée
+    - 2. Evaluersa conformité au RGPD
+    - 3. Identifier les risques que ce traitement peut engendrer pour les personnes concernées
+    - 4. Le cas échéant, définir les mesures à prendre pour réduire les risques
+Les peronnes concernées sont au <coeur de la réflxion> que doit mener le responsable de traitement quand il fait un AIPD.
+L'analyse d'impact peut concerner :
+    - un seul traitement
+    - plusieurs traitements identiques ou similaires
+    - un produit
+
+### 3.2 Risque pour la vie privée
+Un traitement de données personnelles est susceptible d'engendrer un risque pour la vie privée des personnes concernées. L'objectif de l'AIPD est de déterminer et de traiter ce ou ces risques.
