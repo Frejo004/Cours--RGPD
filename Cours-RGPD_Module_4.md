@@ -106,3 +106,33 @@ Le sous-traitant doit tenir un registre des traitements effectués pour le compt
 Le registe du responsable de traitement et celui de sous-traitant ne sont pas les mêmes. Si l'organisme est à la fois responsable de traitement et sous-traitant, il doit tenir deux registres distincts.
 
 ### 2.3 Dérogation
+Les entreprises de moins de 250 salariés sont dispensées de tenir un registre des traitements, sauf si : 
+    - le traitement est susceptible d'engendrer un risque pour les droits et libertés des personnes concernées
+    - le traitement est régulier
+    - le traitement porte sur des données sensibles
+    - etc
+
+### 2.4 Modèle de registre
+Il existe plusieurs modèles de registre des traitements. Le plus courant est le modèle proposé par la CNIL. Il est disponible en téléchargement sur le site de la CNIL.
+
+### 2.5 Méthode
+Pour mettre en place ce registre, la CNIL propose une méthode en 03 étapes :
+    Etape 1 : Rassambler les informations disponibles
+        - identifier et rencontrer les acteurs opérationnels des différents services susceptibles de traiter des données personnelles
+        - analyser le site internet de l'organisme
+        - identifier les données collectées dans les formulaires en ligne
+        - utilliser la liste des traitements déclarés à la CNIL
+    Etape 2 :  Elaborerla liste des traitements
+        - liste des différentes activités impliquant un traitement de données personnelles
+        - exploiter les informations collectées lors des entretiens avec les acteurs opérationnels
+        - remplir une fiche de registre par activité
+    Etape 3: Affiner
+     - identifier et analyser les risques qui peuvent peser sur les traitemnts de données mise en oeuvre
+     - élaborer un plan d'action de mise en conformité RGPD
+
+### 2.6 Suivi
+Le <registre doit être mise à jour régulièrement> pour suivre l'évolution des traitements de données personnelles mis en oeuvre par l'organisme. En pratique toute modification d'un traitement de données personnelles doit être répercutée dans le registre.
+
+### 2.7 Communication
+Le registre doit être communiqué à la CNIL sur demande. Il doit également être communiqué aux personnes concernées sur demande car il s'agit d'un <document public>.
+Le registre doit être communiqué après avoir retiré les informations sensibles. En effet, le registre contient des informations sensibles qui ne doivent pas être communiquées aux personnes concernées.
