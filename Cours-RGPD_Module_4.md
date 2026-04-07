@@ -153,3 +153,92 @@ L'analyse d'impact peut concerner :
 
 ### 3.2 Risque pour la vie privée
 Un traitement de données personnelles est susceptible d'engendrer un risque pour la vie privée des personnes concernées. L'objectif de l'AIPD est de déterminer et de traiter ce ou ces risques.
+
+#### 3.2.1  Qu'est ce qu'un risque sur la vie privée ?
+Un risque sur la vie privée est un risque qui peut porter atteinte à la vie privée des personnes concernées. C'est un sénario qui décrit : 
+    - un événement redouté
+    - toutes les menaces qui rendent cet événement possible( vol d'un ordinateur portable, contagion d'un logiciel malveillant, etc)
+    - la source de cette menace
+    - les impacts potentiels de cet événement
+Le risque est estimé par une appréciation : 
+    - de sa gravité : quelle est l'ampleur du préjudice pour la personne concernée ?
+    - de sa vraisemblance : quelle est la probabilité que cet événement se produise ?
+
+### 3.3 Quels sont les traitements concernés par l'AIPD ?
+Le RGPD impose de réaliser une AIPD pour les traitements qui sont susceptibles d'engendrer un risque élevé pour les droits et libertés des personnes concernées. 
+
+#### 3.3.1 AIPD obligatoire
+C'est le reponsable de traitement qui détermine si son traitement est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes concernées. Pour cela, il convient de vérifier : 
+    - Il correspond à l'un des trois traitement visée à l'article 35-3 du RGPD
+    - Il figure sur la liste des traitements pour lesquels une AIPD est obligatoire, établie par la CNIL
+    - Il remplit un ou plusieurs des critères listés par la Comité Européen de la Protection des Données (CEPD) dans ses lignes directrices.
+
+#### 3.3.1.A Les 03 traitements visés à l'article 35-3 du RGPD
+    - 1. L'évaluation systématique et approfondie des aspects
+Concernant des données personnes physiques, fondé sur un traitement automatisé, y compris le profilage, et produisant des effets juridiques ou affectant de manière significative les personnes concernées.
+    - 2. Le traitement à grande échelle
+de catégories particulières de données personnelles (données sensibles) ou de données à caractère personnel relatives à des condamnations pénales et à des infractions.
+    - 3. La surveillance systématique à grande échelle
+d'une zones accessibles au public.
+
+#### 3.3.1.B La liste des traitements pour lesquels une AIPD est obligatoire, établie par la CNIL
+La CNIL a établi une liste des traitements pour lesquels une AIPD est obligatoire. Cette liste est disponible en téléchargement sur le site de la CNIL.b Elle compte 14 types d'opérations de traitement.
+Cette liste n'est pas exhaustive: les traitements qui ne figurent pas sur cette liste peuvent néanmoins devoir faire l'objet d'une analyse d'impact.
+C'est le cas des traitements qui réunissent deux des neufs critères issus des lignes directrices du CEPD.
+
+#### 3.3.1.C les critères des lignes directrices du CEPD
+Les critères sont les suivants :
+    - 1. Évaluation ou notation
+    - 2. Prise de décision automatisée produisant des effets juridiques
+    - 3. Surveillance systématique
+    - 4. Données sensibles ou données à caractère très personnel
+    - 5. Traitement à grande échelle
+    - 6. Mise en relation ou combinaison de jeux de données
+    - 7. Données concernant des personnes vulnérables
+    - 8. Utilisation innovante ou application de solutions technologiques nouvelles
+    - 9. Empêchement d'un droit ou d'un avantage
+
+#### 3.3.2 AIDP facultative
+Il existe des traitements pour lesquels une AIPD n'est pas obligatoire. Ces traitements sont listés par la CNIL.Dans ce cas on a :
+    - quand le traitement ne présente pas de risque élevé pour les droits et libertés des personnes concernées
+    - lorque la nature, la portée, le contexte et les finalités du traitement sont similaires à des traitements déjà réalisés et pour lesquels une AIPD a déjà été réalisée
+    - quand le traitement difure sur la liste des trautements pour lesquels aucune AIPD n'est requise
+    - quand le traitement ,fondé sur une base juridique ou une mission d'intérêt public, est prévu par une disposition législative ou réglementaire
+
+### 3.4 Traitement antérieurs au RGPD
+Concernant  les traitements antérieurs au RGPD, il convient de vérifier si ces traitements sont conformes au RGPD. Si ce n'est pas le cas, il convient de mettre en conformité ces traitements avec le RGPD. 
+
+### 3.5 Qui réalise l'AIPD ?
+C'est le responsable de traitement qui réalise l'AIPD. Il peut le faire seul ou avec l'aide de son DPO. Il peut également faire appel à un prestataire externe pour réaliser l'AIPD. 
+Le délégué aura notamment pour mission de : 
+    - conseiller le responsable de traitement sur l'opportunité de réaliser une AIPD
+    - aider le responsable de traitement à réaliser l'AIPD
+    - vérifier que l'AIPD est conforme au RGPD
+    - aider le responsable de traitement à mettre en conformité son traitement avec le RGPD
+Si un sous-traitant est concerné par l'AIPD, il doit coopérer avec le responsable de traitement pour réaliser l'AIPD. 
+
+### 3.6 Contenu
+L'analyse d'impact doit contenir les éléments suivants :
+    - une description systématique du traitement
+    - une évaluation de la nécessité et de la proportionnalité du traitement
+    - une évaluation des risques pour les droits et libertés des personnes concernées
+    - les mesures à prendre pour réduire les risques
+
+### 3.7 Méthode
+<L'analyse d'impact doit être réaliseée avant la mise en oeuvre du traitement.> Elle doit être amorcée le plus tôt possible dans le cycle de vie du traitement.  Pour ce faire le responsable de traitement peut choisir librement sa méthode, à condition qu'elle respecte les critères des lignes directrices dédiées à la réalisation d'une AIPD.
+Les gu ides de la CNIL dédiés à la réalisation d'une AIPD décrivent la méthode à suivre :
+    - 1. délimiter et décrire le contexte du ou des traitements
+    - 2. analyser les mesures garantissant le respect des principes fondamentaux : la protection des droits des personnes concernées, la proportionnalité et la nécessité du traitement
+    - 3. apprécier les risques sur la vie privée liés à la sécurité des données et vérifier qu'ils sont convenablement maîtrisés
+    - 4. formaliser la validation de l'analyse au regard des éléments précédent ou bien décider de réviser les étapes précédentes
+
+### 3.8 Communication de l'AIPD
+#### A la CNIL
+    - Obligatoire : si vous avez effectué une analyse d'impact et que le niveau de risque résiduel pour les drouts et libertés des personnes concernées reste élevé
+    - Potentiellement requise en cas de contrôle de la CNIL
+#### Aux personnes concernées
+Aux personnées intéressées il n'y a aucune obligation de communiquer l'AIPD. Cependant, le responsable de traitement est libre de communiquer sur le fait qu'il a bien réalisé aue AIPD et sur une synthèse des résultats.
+La communication de l'AIPD peut être partielle en exclant les parties sensible de l'analyse d'impact.
+
+### 3.9 Sanction 
+Le non respect des dispositions du RGPD relatives à l'AIPD peut entraîner des sanctions financières. Elle est passible d'une amende administrative pouvant aller jusqu'à 10 millions d'euros ou 2% du chiffre d'affaires annuel mondial de l'entreprise.
