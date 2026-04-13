@@ -242,3 +242,66 @@ La communication de l'AIPD peut être partielle en exclant les parties sensible 
 
 ### 3.9 Sanction 
 Le non respect des dispositions du RGPD relatives à l'AIPD peut entraîner des sanctions financières. Elle est passible d'une amende administrative pouvant aller jusqu'à 10 millions d'euros ou 2% du chiffre d'affaires annuel mondial de l'entreprise.
+
+
+## D. UNITE 4 : LA NOTIFICATION DES VIOLATIONS DE DONNEES
+
+### 4.1 Définition
+Une violation de données à caractère personnel est une violation de la sécurité entraînant accidentellement ou illégalement la destruction, la perte, l'altération, la divulgation non autorisée ou l'accès non autorisé à des données à caractère personnel transmises, conservées ou traitées d'une autre manière.
+
+### 4.2 Les causes 
+Une violation de sécurité peut être causée par :
+    - une faille ou vulnérabilié de sécurité
+    - un accident (incendie, inondation, etc)
+    - une erreur humaine (de saisie, de manipulation, dans la conception de système, etc)
+    - une action malveillante (piratage, vol, etc)
+
+### 4.3 Documentation
+Quelle que soit la cause, une violation de données doit être documentée. Cette documentation doit contenir les éléments suivants :
+    - la nature de la violation
+    - la date et l'heure de la violation
+    - les données concernées
+    - les personnes concernées
+    - les mesures prises pour limiter les risques
+    - les mesures prises pour prévenir les risques futurs
+    - les conséquences de la violation
+    - les mesures prises pour remédier à la violation
+    - les catégories et le nombre approximatif d'enregistrements de données personnelles concernés
+
+### 4.4 Délais de notification 
+    - A la CNIL
+Si l'incident est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes concernées, le responsable de traitement doit notifier la violation à la CNIL dans les meilleurs délais et, en tout état de cause, dans les 72 heures à compter de la prise de connaissance de la violation.
+    - Aux personnes concernées
+Si l'incident est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes concernées, l'organisme doit informer dans les meilleurs délais les données concernées.Cette information doit contenir:
+    - la nature de la violation 
+    - les conséquences probables de la violation
+    - les coordonnées de la personnes à contacter
+    - les mesures prises pour remédier à la violation
+    - pour limiter les conséquences négatives de la violation
+
+03 exceptions à cette communication aux personnes concernées :
+    - quand le responsable de traitement a mis en place des mesures techniques et organisationnelles appropriées pour protéger les données
+    - quand l'organisme à mis en place , après la violation, des mesures empêchant le risque élevé de survenir
+    - ou si cette notification néccessiterait des efforts disproportionnés
+
+Si l'organisme ne peut pas fournir toutes les informations resquises dans ce délai parce que des investigations sont en cours, il peut procéder à une notification en deux étapes :
+    - 1. une notification initiale dans les meilleurs délais à la suite de la constatation de la violation
+    - 2. une notification complémentaire dans un délai de 72h après la notification initiale, avec les informations manquantes
+
+### 4.5 Suite de la notification
+Quand la CNIL reçoitune notification ,il va instruire. Cette procédure pourra être clôturées su la CNIL constate que :
+    - la violation n'est pas susceptible d'engendrer un risque élevé pour les droits et libertés des personnes concernées
+    - l'organisme a correctement informé les personnes concernées
+    - l'organisme a mis en place des mesures techniques et organisationnelles appropriées pour protéger les données
+    - l'organisme a mis en place , après la violation, des mesures empêchant le risque élevé de survenir
+
+### 4.6 Sanctions
+Le non respect des dispositions du RGPD relatives à la notification des violations de données peut entraîner des sanctions financières. Elle est passible d'une amende administrative pouvant aller jusqu'à 10 millions d'euros ou 2% du chiffre d'affaires annuel mondial de l'entreprise.
+
+
+## E. UNITE 5 : CODE DE CONDUITE ET CERTIFICATION
+
+### 5.1 Définition
+Un code de conduite est un ensemble de règles et de bonnes pratiques élaborées par un secteur d'activité pour garantir la protection des données personnelles. Il est élaboré par un organisme représentatif du secteur et doit être approuvé par la CNIL.
+
+### 5.2
