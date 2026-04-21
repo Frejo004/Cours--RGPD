@@ -304,4 +304,22 @@ Le non respect des dispositions du RGPD relatives à la notification des violati
 ### 5.1 Définition
 Un code de conduite est un ensemble de règles et de bonnes pratiques élaborées par un secteur d'activité pour garantir la protection des données personnelles. Il est élaboré par un organisme représentatif du secteur et doit être approuvé par la CNIL.
 
-### 5.2
+### 5.2 Les objectifs de code de conduite
+Pour être efficient, le code de conduite doit préciser concrètement comment <mettre en oeuvre les dispositions de règlement dans un secteur d'activité identifié>. Ainsi il doit apporter des solutions comme:
+    -   de fiches thématiques
+    - des modèles de mentions d'informatique
+    - recommandations
+Un code de condduite fournit des éléments concrets pour la mise en oeuvre des dispositions du RGPD dans un secteur d'activité identifié.
+
+### 5.3 Conception
+Le code de conduite doit être porté par une association ou un organisme représentatif du secteur. Il est conseillé à l'organisme représentatif de constituer un comité en charge du recensement des problématiques rencontrées par les acteurs du secteur en matière de protection des données personnelles.
+A l'issue de cette étape, un projct de <code de conduite> est rédigé. Dans le même temps, les professionnels peuvent solliciter les sercives de la CNIL dans l'élaboration de leur code de conduite.
+
+### 5.4 Validation
+Quand le projet de code de conduite est finalisé, il est soumis à l'autorité de contrôle concernée pour lui soumettre le projet de code de conduite. 
+    - su ce projet de code concerne des activitées menées au sein d'un seul Etat membre, l'autorité de contrôle rend un avis et approuve le code de conduite
+    - si le projet est européen il doit être communiqué à la CNIL qui le soumettra à l'avis du comité européen à la protection des données (CEPD). Le CEPD soumet ensuit son avis à la Commission européenne qui peut l'approuver et appliquer ce code au sein de l'Union européen et publie le code de conduite.
+    Le code approuvé fait l'objet d'une publication et d'un enregistrement par lautorité de contrôle.
+    Le code de conduite est juridiquement contraignant pour les organismes qui y adhèrent.
+
+### 5.5 Contôle
