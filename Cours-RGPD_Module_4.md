@@ -323,3 +323,45 @@ Quand le projet de code de conduite est finalisé, il est soumis à l'autorité 
     Le code de conduite est juridiquement contraignant pour les organismes qui y adhèrent.
 
 ### 5.5 Contôle
+Un code de conduite doit être contrôlé par un organisme de contrôle indépendant. Cet organisme est désigné par l'autorité de contrôle et doit être indépendant de l'organisme qui a élaboré le code de conduite.
+Le code de conduite est un outil de conformité qui apporte aux responsable de traitements ou aux sous traitants des solutions pour les aider à se mettre en conformité.
+Le mécanisme de cerrification quant à lui a pour objet de certifier un produit, orocessus, service ou des compétences selon un référentiel.
+
+### 5.6 L'objectif de la certification
+La certification est la procédure prévue par RGPD qui permet à un professionnel de faire attester par un organisme indépendant qu'un produit, un processus, un service ou des compétences sont conformes à un référentiel.
+Une organisme qui obtient la certification peut l'utiliser pour démontrer sa conformité aux exigences du RGPD.
+Un organisme qui souhaite mettre en place un traitement dans une logique de protection des données dès la conception et pae défaut pourra utiliment s'appuyer sur un mécanisme de certification.
+La cerfication peut aussi fournir des <garanties appropriées dans le cadre de tranferts des données hors de l'Union Européenne > et permet ainsi aux organismes non soumis de RGPD d'encadrer ce tuye de transfert.
+
+La certification est une <démarche volontaire>
+L'organisme souhaitant obtenir la certification doit s'adresser à un organisme de certification accrédité.
+L'organisme de certification accrédité va vérifier que le produit, le processus, le service ou les compétences sont conformes au référentiel.
+Si c'est le cas, l'organisme de certification accrédité délivre un certificat à l'organisme qui souhaite obtenir la certification.
+Le certificat est valable 5 ans et peut être renouvelé.
+La certification est dérivrée pour une durée de 3 ans, et peut être renouvelée dans les même conditions que la procédure initial.
+
+### Organisme de certification
+Un organisme certificateur doit justifier de son indépendance, de sa compétence et de son impartialité.Pour celà , le RFPD prévoit 02 types de procédures:
+    -Lobtention d'un agrément auprès de l'autorité nationale conpétente (CNIL) ua regard d'un référentiel
+    -L'obtention d'une accréditation par un organisme national d'accréditation (ex: COFRAC en France)
+
+L'organisme certificateur est agéé ou accrédité pour une durée de 5 ans. Il sera en charge de l'évaéluation conduisant à la délivrance de la certification ou au retrait de celle-ci. Il est également en charge du contrôle du respect du référentiel de certification, sans préjudice des missons et de pouvoirs de l'autorité de contrôle compétente. Si l'organisme certificateur ne répond plus aux exigences des référentiels, son agrément e=ou son accréditation peuvent lui être retirés par les autorités qui les ont délivrés.
+
+### 5.7 Rôle des pouvoir publics
+Les pouvoirs publics et la CNIL ont aussi un rôle à jouer dans ce mécanisme de certification :
+    - un rôle incitatif : 
+Les Etats membres, la Comité européen de la protection des données et la Commission européenne peuvent encourager la mise en place de mécanismes de certification.
+
+    - un rôle participatif :
+Le RGPD prévoit que les autoritées de contrôle disposent de certains pouvoir en matière de certification et de code de conduite.
+
+    - un rôle de coercitif :
+L'autorité peut imposer des amendes en cas de non respect des dispositions du RGPD relatives à la certification et au code de conduite.Le montant de l'amande peut s'élever jusqu'à 10 millions d'euros ou 2% du chiffre d'affaires annuel mondial de l'entreprise.
+
+### Certification des compétences de DPO
+En raison d'un pouvoir prévu par la loi française, la CNIL a mis en place un référentiel de certification des compétences des DPO. Ce référentiel est basé sur les compétences requises pour l'exercice des missions de DPO prévues par le RGPD. Cette certification est délivrée par des organismes certificateurs accrédités par la CNIL. Elle n'est pas obligatoire pour exercer les fonctions de DPO, mais elle est fortement recommandée.
+
+### Les référentiels élévorés par le CNIL
+La CNIL a élaboré 02 référentiels de certification des compétences des DPO:
+    - Le référentiel d'agrément
+    - Le référentiel de certification
